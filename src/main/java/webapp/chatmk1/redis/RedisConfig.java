@@ -1,6 +1,5 @@
-package com.lhy.springLettuce.redis;
+package webapp.chatmk1.redis;
 
-import com.lhy.springLettuce.Domain.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

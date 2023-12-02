@@ -1,4 +1,4 @@
-package com.lhy.springLettuce.redis;
+package webapp.chatmk1.redis;
 
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Value;

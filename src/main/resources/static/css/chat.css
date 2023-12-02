@@ -1,3 +1,7 @@
+*{
+    outline: 1px;
+}
+
 #chat1 .form-outline .form-control~.form-notch div {
     pointer-events: none;
     border: 1px solid;

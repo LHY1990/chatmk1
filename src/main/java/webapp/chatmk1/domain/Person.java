@@ -1,4 +1,4 @@
-package com.lhy.springLettuce.Domain;
+package webapp.chatmk1.domain;
 
 import lombok.*;
 
