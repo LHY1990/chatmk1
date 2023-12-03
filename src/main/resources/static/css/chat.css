@@ -1,5 +1,6 @@
-*{
-    outline: 1px;
+
+* {
+    font-size: 13px;
 }
 
 #chat1 .form-outline .form-control~.form-notch div {
@@ -76,4 +77,38 @@
 
 #chat1 .form-outline .form-control~.form-label {
     color: #bfbfbf;
+}
+
+.message-box{
+    height: 53px;
+    width: 78%;
+    float: left;
+}
+
+.send-button {
+    height: 60px;
+    width: 18%;
+    float: right;
+}
+
+.other-message{
+    /* height: 22px; */
+    width: 60%;
+    float: left;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #aecad3;
+    margin-bottom: 10px;
+}
+
+.my-message{
+    /* height: 22px; */
+    width: 60%;
+    float: right;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    margin-bottom: 10px;
 }
